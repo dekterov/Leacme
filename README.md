@@ -74,7 +74,7 @@ This page serves as the index for the Leacme projects designed and programmed by
 62. <img src="https://dekterov.github.io/Leacme/resources/img/angryaliens3d.png" height="100px"> [Angry Aliens 3D](https://dekterov.github.io/leacme-prototype-games/angryaliens3d/angryaliens3d.html) - Angry Birds clone, pull back the UFO and let it fly at the blocks.
 63. <img src="https://dekterov.github.io/Leacme/resources/img/baconcheckers.png" height="100px"> [Bacon Checkers](https://dekterov.github.io/leacme-prototype-games/baconcheckers/baconcheckers.html) - Checkers, but with bacon!
 64. <img src="https://dekterov.github.io/Leacme/resources/img/badapple.png" height="100px"> [Bad Apple](https://dekterov.github.io/leacme-prototype-games/badapple/badapple.html) - Minesweeper apple clone.
-65. <img src="https://dekterov.github.io/Leacme/resources/img/battleboats.png" height="100px"> [Battle Boats](
+65. <img src="https://dekterov.github.io/Leacme/resources/img/sbattleboats.png" height="100px"> [Battle Boats](
 https://dekterov.github.io/leacme-prototype-games/battleboats/battleboats.html) - Battleship clone vs AI.
 66. <img src="https://dekterov.github.io/Leacme/resources/img/binaries.png" height="100px"> [Binaries](https://dekterov.github.io/leacme-prototype-games/binaries/binaries.html) - Tic-tac-toe with ones and zeroes.
 67. <img src="https://dekterov.github.io/Leacme/resources/img/braveweasel.png" height="100px"> [Brave Weasel](https://dekterov.github.io/leacme-prototype-games/braveweasel/braveweasel.html) - Weasely Frogger.
@@ -141,26 +141,26 @@ https://dekterov.github.io/leacme-prototype-games/battleboats/battleboats.html) 
 
 ## Leacme Cross-Platform Java 11 Apps
 
-125. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Amygate](https://github.com/dekterov/Leacme/releases/tag/Amygate) - A customizable calendar
-126. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Chauchase](https://github.com/dekterov/Leacme/releases/tag/Chauchase) - On-screen visual typing application. Includes multiple languages
-127. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Chyblade](https://github.com/dekterov/Leacme/releases/tag/Chyblade) - Identified and displays system storage information
-128. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Cynthefal](https://github.com/dekterov/Leacme/releases/tag/Cynthefal) - This app detects if you are running in a Virtual Machine
-129. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Dijurhan](https://github.com/dekterov/Leacme/releases/tag/Dijurhan) - Display your approximate georgaphical location on the map
-130. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Ditrunotron](https://github.com/dekterov/Leacme/releases/tag/Ditrunotron) - Click the clock to switch it between analog and digital
-131. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Duopelin](https://github.com/dekterov/Leacme/releases/tag/Duopelin) - Measures the battery level of your system
-132. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Fryssar](https://github.com/dekterov/Leacme/releases/tag/Fryssar) - Mouse over a country for name and click it to list its capital. Also mouse over the dots representing the locations of capitals to view their names
-133. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Haheipler](https://github.com/dekterov/Leacme/releases/tag/Haheipler) - Application that displays current system process information
-134. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Itaxocor](https://github.com/dekterov/Leacme/releases/tag/Itaxocor) - A media application. Plays audio and video files
-135. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Owerporw](https://github.com/dekterov/Leacme/releases/tag/Owerporw) - Displays current forecast conditions based on your location
-136. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Pipthar](https://github.com/dekterov/Leacme/releases/tag/Pipthar) - Displays your system's hardware information
-137. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Pragisd](https://github.com/dekterov/Leacme/releases/tag/Pragisd) - A text editor app
-138. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Pyrvor](https://github.com/dekterov/Leacme/releases/tag/Pyrvor) - Polls and displays your system's realtime fan information
-139. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Rhucliate](https://github.com/dekterov/Leacme/releases/tag/Rhucliate) - Displays current memory usage and information
-140. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Rurnar](https://github.com/dekterov/Leacme/releases/tag/Rurnar) - Displays realtime CPU diagnostic information
-141. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Tirkonium](https://github.com/dekterov/Leacme/releases/tag/Tirkonium) - Enumerates the system audio devices and displays their audio levels
-142. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Trifoax](https://github.com/dekterov/Leacme/releases/tag/Trifoax) - Monitors download and upload speeds of your system's network interfaces
-143. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Valchium](https://github.com/dekterov/Leacme/releases/tag/Valchium) - View system's unique identifiers
-144. <img src="https://dekterov.github.io/Leacme/resources/img/.png" height="100px"> [Zethrycin](https://github.com/dekterov/Leacme/releases/tag/Zethrycin) - A web browser app
+125. <img src="https://dekterov.github.io/Leacme/resources/img/Amygate.png" height="100px"> [Amygate](https://github.com/dekterov/Leacme/releases/tag/Amygate) - A customizable calendar
+126. <img src="https://dekterov.github.io/Leacme/resources/img/Chauchase.png" height="100px"> [Chauchase](https://github.com/dekterov/Leacme/releases/tag/Chauchase) - On-screen visual typing application. Includes multiple languages
+127. <img src="https://dekterov.github.io/Leacme/resources/img/Chyblade.png" height="100px"> [Chyblade](https://github.com/dekterov/Leacme/releases/tag/Chyblade) - Identified and displays system storage information
+128. <img src="https://dekterov.github.io/Leacme/resources/img/Cynthefal.png" height="100px"> [Cynthefal](https://github.com/dekterov/Leacme/releases/tag/Cynthefal) - This app detects if you are running in a Virtual Machine
+129. <img src="https://dekterov.github.io/Leacme/resources/img/Dijurhan.png" height="100px"> [Dijurhan](https://github.com/dekterov/Leacme/releases/tag/Dijurhan) - Display your approximate georgaphical location on the map
+130. <img src="https://dekterov.github.io/Leacme/resources/img/Ditrunotron.png" height="100px"> [Ditrunotron](https://github.com/dekterov/Leacme/releases/tag/Ditrunotron) - Click the clock to switch it between analog and digital
+131. <img src="https://dekterov.github.io/Leacme/resources/img/Duopelin.png" height="100px"> [Duopelin](https://github.com/dekterov/Leacme/releases/tag/Duopelin) - Measures the battery level of your system
+132. <img src="https://dekterov.github.io/Leacme/resources/img/Fryssar.png" height="100px"> [Fryssar](https://github.com/dekterov/Leacme/releases/tag/Fryssar) - Mouse over a country for name and click it to list its capital. Also mouse over the dots representing the locations of capitals to view their names
+133. <img src="https://dekterov.github.io/Leacme/resources/img/Haheipler.png" height="100px"> [Haheipler](https://github.com/dekterov/Leacme/releases/tag/Haheipler) - Application that displays current system process information
+134. <img src="https://dekterov.github.io/Leacme/resources/img/Itaxocor.png" height="100px"> [Itaxocor](https://github.com/dekterov/Leacme/releases/tag/Itaxocor) - A media application. Plays audio and video files
+135. <img src="https://dekterov.github.io/Leacme/resources/img/Owerporw.png" height="100px"> [Owerporw](https://github.com/dekterov/Leacme/releases/tag/Owerporw) - Displays current forecast conditions based on your location
+136. <img src="https://dekterov.github.io/Leacme/resources/img/Pipthar.png" height="100px"> [Pipthar](https://github.com/dekterov/Leacme/releases/tag/Pipthar) - Displays your system's hardware information
+137. <img src="https://dekterov.github.io/Leacme/resources/img/Pragisd.png" height="100px"> [Pragisd](https://github.com/dekterov/Leacme/releases/tag/Pragisd) - A text editor app
+138. <img src="https://dekterov.github.io/Leacme/resources/img/Pyrvor.png" height="100px"> [Pyrvor](https://github.com/dekterov/Leacme/releases/tag/Pyrvor) - Polls and displays your system's realtime fan information
+139. <img src="https://dekterov.github.io/Leacme/resources/img/Rhucliate.png" height="100px"> [Rhucliate](https://github.com/dekterov/Leacme/releases/tag/Rhucliate) - Displays current memory usage and information
+140. <img src="https://dekterov.github.io/Leacme/resources/img/Rurnar.png" height="100px"> [Rurnar](https://github.com/dekterov/Leacme/releases/tag/Rurnar) - Displays realtime CPU diagnostic information
+141. <img src="https://dekterov.github.io/Leacme/resources/img/Tirkonium.png" height="100px"> [Tirkonium](https://github.com/dekterov/Leacme/releases/tag/Tirkonium) - Enumerates the system audio devices and displays their audio levels
+142. <img src="https://dekterov.github.io/Leacme/resources/img/Trifoax.png" height="100px"> [Trifoax](https://github.com/dekterov/Leacme/releases/tag/Trifoax) - Monitors download and upload speeds of your system's network interfaces
+143. <img src="https://dekterov.github.io/Leacme/resources/img/Valchium.png" height="100px"> [Valchium](https://github.com/dekterov/Leacme/releases/tag/Valchium) - View system's unique identifiers
+144. <img src="https://dekterov.github.io/Leacme/resources/img/Zethrycin.png" height="100px"> [Zethrycin](https://github.com/dekterov/Leacme/releases/tag/Zethrycin) - A web browser app
 
 ## Leacme Godot Engine Games
 
